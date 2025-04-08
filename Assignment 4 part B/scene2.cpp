@@ -10,6 +10,7 @@ int scene2() {
 	std::cout << "AAAAAAAAAAAAAAAAAA/n";
 	std::cout << "AAAAAAAAAAAAAAAAAA/n";
 
+	std::cout << "AAAAAAAAAAAAAAAAAABBBBBBBBBBBBB/n";
 
 
 }

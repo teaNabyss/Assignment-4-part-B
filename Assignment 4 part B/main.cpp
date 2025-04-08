@@ -7,4 +7,6 @@ void main() {
 	std::cout << "Bye" << std::endl;
 
 	std::cout << "Hello again" << std::endl;
+	std::cout << "Bye" << std::endl;
+
 };
